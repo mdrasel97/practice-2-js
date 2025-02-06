@@ -190,13 +190,13 @@
 
 
 
-let mark = 65;
-if(mark >= 80){
-    console.log('a')
-}
-else if(mark >= 70){
-    console.log('b')
-}
-else if(mark >= 60){
-    console.log('c')
-}
+// let mark = 65;
+// if(mark >= 80){
+//     console.log('a')
+// }
+// else if(mark >= 70){
+//     console.log('b')
+// }
+// else if(mark >= 60){
+//     console.log('c')
+// }
